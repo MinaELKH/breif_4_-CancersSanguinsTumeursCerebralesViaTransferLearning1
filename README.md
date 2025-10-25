@@ -47,9 +47,7 @@ Requirements
 
 Install dependencies via:
 
-text
-
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   pip install torch torchvision torchaudio ultralytics streamlit numpy pandas matplotlib seaborn opencv-python pillow   `
+L`   pip install torch torchvision torchaudio ultralytics streamlit numpy pandas matplotlib seaborn opencv-python pillow   `
 
 Installation
 ------------
@@ -120,9 +118,7 @@ Usage
 
 Run the Streamlit app to interact with both models:
 
-text
-
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   streamlit run app.py   `
+L`   streamlit run app.py   `
 
 *   Upload blood smear images for classification.
     
